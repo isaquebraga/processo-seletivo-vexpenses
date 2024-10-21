@@ -124,7 +124,7 @@ Dois outputs são configurados:
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/isaquebraga/processo-seletivo-vexpenses.git
-   cd seurepositorio
+   cd processo-seletivo-vexpenses
 
 2. **Configuração de variáveis: Defina as variáveis no arquivo terraform.tfvars ou diretamente no código, incluindo o IP permitido para acesso SSH.**
 
